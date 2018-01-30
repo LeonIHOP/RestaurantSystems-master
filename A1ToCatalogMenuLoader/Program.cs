@@ -106,8 +106,8 @@ namespace A1ToCatalogMenuLoader
 
 						merchGlobalList.AddRange(merchList);
 						merchDeptGlobalList.AddRange(merchDeptList);
-						priceGlobalList.AddRange(priceList);
-						screenGroupGlobalList.AddRange(screenGroupList);
+						priceGlobalList.AddRange(priceList); 
+						screenGroupGlobalList.AddRange(screenGroupList);   
 					}
 				}
 
